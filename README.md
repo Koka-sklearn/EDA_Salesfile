@@ -1,6 +1,6 @@
 # EDA_Salesfile
 Computational EDA methods include simple basic statistics 
-Some features and simple basics statistics to understand and clean the data
+Some features to understand and clean the data
 
 # SUMMARY
 
